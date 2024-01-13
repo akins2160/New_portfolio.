@@ -1,0 +1,136 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;/* Set the width of your image */
+  color:
+
+}
+#first {
+  background-color: #E4F9F5;
+  padding-top: 80px
+
+}
+.clou{
+  position: absolute;
+  left: 300px;
+  top:100px;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5em;
+  color: #66BFBF;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+.mountain {
+
+}
+.dp {
+  width: 200px;
+  height: auto;
+}
+
+h3 {
+  color: #66BFBF;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  /* padding: 20px; */
+}
+.about {
+  font-size: 1.5rem;
+  line-height: 2;
+  width: 40%;
+  margin: auto;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+}
+.gif{
+  max-width:30%;
+  margin-right: 30px;
+  float: left;
+  /* margin-right: 30%; */
+}
+#third {
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+
+}
+h4 {
+  color: #66BFBF;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+p {
+  line-height: 1;
+}
+.done {
+  font-size: 1.2rem;
+  font-weight: normal;
+}
+.hot{
+  max-width:30%;
+  margin-left: 30px;
+  float: right;
+}
+.fourth{
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+}
+
+.contents{
+  width: 40%;
+  margin: 40px auto 60px;
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+.Button{
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  /* background-image: linear-gradient(to bottom, #11cdd4, #11999e) */
+  background-color: #11cdd4;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  transition: background-colo 0.1s ease;
+  font-size: 20px
+
+}
+
+
+
+.Button:hover {
+  background-color : #00BFFF;
+  color: #fff;
+}
+
+.last {
+  background-color: #66BFBF;
+  padding:60px 0px 100px;
+
+}
+.same{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-size: 30px
+}
+a:hover {
+    color: #EAF6F6;
+}
+.or {
+
+}
